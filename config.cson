@@ -1,0 +1,49 @@
+"*":
+  "atom-trello":
+    devKey: "9f21490c2ca6f61050b14b0d216b5a86"
+    token: "569f45a7bb31a1cec24c1387c5d9823939d6cc131c422f305b2b9484e4272f7f"
+  core:
+    projectHome: "/var/www/html"
+    themes: [
+      "isotope-ui"
+      "one-dark-syntax"
+    ]
+  docblockr:
+    development_mode: true
+    extra_tags: [
+      "@since ${1:[version]}"
+    ]
+  editor:
+    fontSize: 12
+    invisibles: {}
+    showInvisibles: true
+    tabLength: 4
+  emmet: {}
+  "file-icons": {}
+  "git-plus": {}
+  "grunt-runner": {}
+  "highlight-selected":
+    hideHighlightOnSelectedWord: true
+  "isotope-light-ui":
+    backgroundGradient: true
+  "isotope-ui":
+    backgroundGradient: true
+    customBackgroundColorPicker:
+      red: 88
+      green: 58
+      blue: 58
+      alpha: 1
+  linter:
+    showErrorPanel: false
+  "project-quick-open":
+    openProjectsInSameWindow: true
+    projectPaths: "/var/www/html"
+  tabs:
+    tabScrolling: false
+    usePreviewTabs: true
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
+    ignoreWhitespaceOnCurrentLine: false
